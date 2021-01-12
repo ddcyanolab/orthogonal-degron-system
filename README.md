@@ -3,5 +3,5 @@
 
  ## Plasmid Maps
 
-p673
- <IMG SRC="673-Lon-Protease-Complete.svg" WIDTH=100%></IMG>
+[p673](genbank-files/673-Lon-Protease-Complete.gb)
+ <IMG SRC="svgs/673-Lon-Protease-Complete.svg" WIDTH=100%></IMG>
